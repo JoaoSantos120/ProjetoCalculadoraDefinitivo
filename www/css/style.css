@@ -1,7 +1,20 @@
 /**/
-
+#fundo {
+  background-color:#4169E1;
+}
 .display {
-  margin-top: 40px;
   height: 80px;
   font-size: 50px;
+}
+
+.linha {
+ margin-top: 10px;
+}
+
+.linha button {
+  font-size: 20px;
+}
+.jumbotron {
+  margin-top: 20px;
+  background-color: #353839;
 }
